@@ -1,0 +1,7 @@
+torch==2.9.1
+transformers
+pandas
+matplotlib
+scikit-learn
+ipykernel
+ipywidgets
